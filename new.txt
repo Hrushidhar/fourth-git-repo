@@ -1,2 +1,6 @@
+<<<<<<< master
 hello
 new
+=======
+hello mon
+>>>>>>> hange in prac
