@@ -1,6 +1,5 @@
-<<<<<<< master
+
 hello
-new
-=======
+ne
 hello mon
->>>>>>> hange in prac
+
